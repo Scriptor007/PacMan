@@ -1,0 +1,16 @@
+Spielfiguren
+	1 PacMan mit 3 Leben
+	4 Geister 
+
+Punktesystem
+	1 Punkt fressen = 10 Punkt am Scoreboard
+	Großer Punkt = 10 Punkte am Scoreboard
+	1 Geist gefressen 200 punkte
+
+Items
+	Früchte 
+		1. Level 100 Punkte
+		2. Level 300 Punkte
+		3. Level 500 Punkte
+
+	Großer Punkt -> Geister werden Blau für 10s und können gefressen werden
