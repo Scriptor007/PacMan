@@ -8,9 +8,10 @@
         Title="MainWindow" Height="450" Width="800" Background="Black">
     <Grid Margin="0,0,2,227">
         
-        <Image HorizontalAlignment="Left"  VerticalAlignment="Top" Width="787" Margin="0,25,0,-164" Source="C:\Users\Dominik\PacMan\PacmanÜberschrifft.gif" Height="331"/>
+        <Image HorizontalAlignment="Center"  VerticalAlignment="Top" Width="787" Margin="6,54,-3,-193" Source="..\..\PacmanÜberschrifft.gif" Height="331" Panel.ZIndex="100"/>
         <Grid HorizontalAlignment="Left" Height="213" Margin="0,207,-3,-228" VerticalAlignment="Top" Width="793"/>
         <Button Content="Start " HorizontalAlignment="Center" Width="401" Margin="204,287,185,-145" Click="Button_Click" Height="50" Background="Black" FontFamily="Whimsy TT" IsHitTestVisible="True" Foreground="White" BorderBrush="Black" FontSize="36" IsCancel="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
+        <Button x:Name="Btn_scores" Content="Scores" HorizontalAlignment="Center" Width="401" Margin="204,342,185,-200" Click="Button_Click2" Height="50" Background="Black" FontFamily="Whimsy TT" IsHitTestVisible="True" Foreground="White" BorderBrush="Black" FontSize="36" IsCancel="True" VerticalContentAlignment="Center" HorizontalContentAlignment="Center"/>
 
     </Grid>
 

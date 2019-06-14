@@ -28,8 +28,20 @@ namespace PacManGame
         private void Button_Click(object sender, RoutedEventArgs e)
         {
             Game Spieleseite = new Game();
-            this.Hide();
+            
             Spieleseite.Show();
+            this.Close();
+            
+        }
+
+        private void Button_Click2(object sender, RoutedEventArgs e)
+        {
+
+            highscore Highscore = new highscore();
+            Highscore.Show();
+            this.Hide();
+           
+
         }
     }
 }
