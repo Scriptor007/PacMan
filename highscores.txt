@@ -1,0 +1,9 @@
+Dominik,50
+Tom,70
+Jakob,55
+Marc,40
+Justin,25
+Florian,87
+kjhi,40
+
+Mark,40
